@@ -1,0 +1,25 @@
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/redefinir.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="senha">
+            <h2>Redefinir Senha</h2>
+        </div>
+        <input type="text" id="Senha" placeholder="Senha" oninput="validarCPF(this)">
+        <small id="password" class="error-message" style="display: none;">Apenas números são permitidos</small>
+        <div>
+            <input type="password" id="senha" placeholder="Confirmar Senha">
+        </div>
+        <button onclick="entrar()">CONFIRMAR</button>
+        <div class="links">
+            <a href="index.html">Voltar</a>
+        </div>
+    </div>
+
+</body>
+</html>
