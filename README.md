@@ -1,9 +1,9 @@
-
+<div align="center">
 
 # 🚀 Sistema Web utilizando tecnologias com API, linguagens de marcação, de estilo e PHP!
 
 "Aplicação com Laravel 12, focada em eficiência e escalabilidade."
-
+</div>
 
 ![Logo](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-91f8-622f-9267-ed81e4146c41/raw?se=2025-04-10T13%3A32%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=d36c3d97-c97a-5060-b2ba-7316e17e94af&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T11%3A29%3A33Z&ske=2025-04-11T11%3A29%3A33Z&sks=b&skv=2024-08-04&sig=IOgxjr9HSqpmvOuWqCDsirOY8QqYuD8ZlFx%2BULLa89o%3D)
 
