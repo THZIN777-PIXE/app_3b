@@ -85,7 +85,11 @@ Deploy local e manutenção de dependências
 
 ## Autores
 Arthur henrique
+
+
 Thiago Baronny
+
+
 Társis martins
 
 GitHub: https://github.com/THZIN777-PIXE
